@@ -1,4 +1,4 @@
-package com.cj.common.pojo;
+package com.cj.core.pojo;
 
 import java.io.IOException;
 import java.net.URI;

@@ -1,4 +1,4 @@
-package com.cj.common.utils;
+package com.cj.core.utils;
 
 import java.util.Random;
 

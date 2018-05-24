@@ -1,9 +1,8 @@
-package com.cj.common.utils;
+package com.cj.core.utils;
 
 
 import org.csource.common.NameValuePair;
 import org.csource.fastdfs.ClientGlobal;
-import org.csource.fastdfs.StorageClient;
 import org.csource.fastdfs.StorageClient1;
 import org.csource.fastdfs.StorageServer;
 import org.csource.fastdfs.TrackerClient;

@@ -1,4 +1,4 @@
-package com.cj.common.utils;
+package com.cj.core.utils;
 
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
